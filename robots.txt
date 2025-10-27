@@ -4,5 +4,6 @@ User-agent: Yandex
 Allow: /
 User-agent: Googlebot
 Allow: /
-Disallow: /cgi-bin
+
+Sitemap: https://kraiton1.github.io/dorogogo-gostya-nado-v-dom-zvat-/sitemap.xml
 
