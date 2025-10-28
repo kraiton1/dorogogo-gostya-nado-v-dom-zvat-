@@ -60,7 +60,7 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: Yandex\nUser-agent: Googlebot\nUser-agent: Yandex\nAllow: /\nUser-agent: Googlebot\nAllow: /\nSitemap: https://kraiton1.github.io/dorogogo-gostya-nado-v-dom-zvat-/sitemap.xml\n\n",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
-    "mbrsiteDomain": "pahsv4hfme",
+    "mbrsiteDomain": "2p1afrbaz6",
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": false,
     "siteUrl": "https://kraiton1.github.io/potop-v-sssr/",
@@ -80,7 +80,7 @@
       "settings": {
         "main": true,
         "title": "Дорогого гостя надо в дом звать..",
-        "meta_descr": "Вот когда он переступил твой порог \n- Это значит Близкий человек..\nЭпизоды из Советских фильмов..",
+        "meta_descr": "Вот когда он переступил твой порог \n- Это значит Близкий человек..\nЭпизоды из Советских фильмов.. { Категория: 33+}",
         "header_custom": "<head>\n  <style>\n    img {\n      transition: transform 1.5s ease;\n    }\n\n    img:hover {\n      transform: scale(1.4);\n    }\n  </style>\n</head>",
         "footer_custom": "<style>\n  /* Общий стиль для всей области текста с тенью */\n  .text-with-shadow {\n    text-shadow: 1px 1px 3px #000000;\n  }\n</style><div class=\"text-with-shadow\">",
         "html_before": "",
